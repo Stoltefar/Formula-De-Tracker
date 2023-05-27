@@ -1,0 +1,17 @@
+h2 {
+    background-color: cyan;
+    color: crimson;
+    width: 280px;
+    padding: 10px;
+}
+#input-box {
+    background-color: antiquewhite;
+    width: 300px;
+}
+.txt-input {
+    padding: 10px;
+}
+
+.submit-btn {
+    padding: 10px;
+}
