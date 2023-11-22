@@ -1,12 +1,18 @@
+h1 {
+    font-family: 'Nakadai', 'Copperplate Gothic', sans-serif;
+}
+
 h2 {
     background-color: cyan;
+    font-family: 'Optima', 'Dubai', sans-serif;
     color: crimson;
     width: 280px;
     padding: 10px;
 }
 #input-box {
     background-color: antiquewhite;
-    width: 300px;
+    width: 320px;
+    font-family: 'Magneto', 'Optima', 'Dubai', sans-serif ;
 }
 .txt-input {
     padding: 10px;
